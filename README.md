@@ -6,6 +6,7 @@ Prosty skrypt ściągający wszystkie pdf'y z zadanej mu strony www.
 
 Zmień w skrypcie adres storny i zmień nazwę folderu odpal w CLI.
 
+Edytor tekstowy:
 
 <p> BASE_URL = "https://........................."
 <p> DOWNLOAD_DIR = "reports"
